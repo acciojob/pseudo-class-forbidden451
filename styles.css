@@ -4,11 +4,11 @@
 }
 
 #container::before{
-	content:"Before container";
+	content:"Before Element";
 	color:#f00;
 }
 
 #container::after{
-	content:"After Container";
+	content:"After Element";
 	color:#f00;
 }
